@@ -9,4 +9,5 @@
 5. **Image Super Resolution**
 6. **Text Classification**
 7. **KMeans**
+8. **PCA**
 
